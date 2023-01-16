@@ -21,7 +21,6 @@ com\portafolio\liki\Security\Entity\Usuario.class
 com\portafolio\liki\Controller\CExperiencia.class
 com\portafolio\liki\Security\Dto\LoginUsuario.class
 com\portafolio\liki\Security\jwt\JwtEntryPoint.class
-META-INF\MANIFEST.MF
 com\portafolio\liki\Controller\CEducacion.class
 com\portafolio\liki\Service\Seducacion.class
 com\portafolio\liki\Security\Controller\AuthController.class
@@ -31,7 +30,5 @@ com\portafolio\liki\Security\Dto\NuevoUsuario.class
 com\portafolio\liki\Security\Enums\RolNombre.class
 com\portafolio\liki\Entity\Educacion.class
 com\portafolio\liki\Security\MainSecurity.class
-META-INF\maven\com.portafolio\liki\pom.xml
 com\portafolio\liki\Service\ImpPersonaService.class
 com\portafolio\liki\Security\Repository\iUsuarioRepository.class
-META-INF\maven\com.portafolio\liki\pom.properties
